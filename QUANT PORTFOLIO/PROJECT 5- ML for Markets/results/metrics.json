@@ -1,0 +1,10 @@
+{
+  "LogisticRegression": {
+    "AUC_mean": 0.502812128221801,
+    "ACC_mean": 0.5040540540540541
+  },
+  "RandomForest": {
+    "AUC_mean": 0.49446578591467005,
+    "ACC_mean": 0.4993243243243243
+  }
+}
