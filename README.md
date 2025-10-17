@@ -1,6 +1,8 @@
 # 📊 Quant Portfolio
 
-A collection of **10 quantitative finance research projects**, created to reflect my deep interest in **mathematical modeling, statistics, and computational methods** applied to financial markets.  
+A collection of **10 quantitative finance research projects**, created to reflect my deep interest in **mathematical modeling, statistics, and computational methods** applied to financial markets.
+
+
 I wanted to bridge theory and practice by building end-to-end projects that combine **probabity, optimization, data science, and finance**. Each project demonstrates both the **rigor of quantitative methods** and their **practical impact on trading and risk management**.  
 
 These projects reflect the way I’ve learned by sitting beside my father during his trading sessions, observing how real market decisions are made, and then transforming those insights into systematic, data-driven strategies.  
