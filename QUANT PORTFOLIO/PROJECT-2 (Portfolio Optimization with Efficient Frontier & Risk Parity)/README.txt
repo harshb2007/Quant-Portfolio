@@ -1,4 +1,4 @@
-﻿# Portfolio Optimization with Efficient Frontier & Risk Parity 
+﻿# PROJECT-02-Portfolio Optimization with Efficient Frontier & Risk Parity 
 
 **Author:** HARSH BYJESH | Generated: 2025-10-06
 
@@ -41,5 +41,6 @@ It compares **Maximum Sharpe**, **Minimum Volatility**, and **Risk Parity** port
 ## Notes
 - This project uses synthetic data for reproducibility.  
 - Replace `data/` with real asset returns (e.g., from Yahoo Finance) to replicate on live markets.  
+
 
 
