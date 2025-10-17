@@ -1,4 +1,4 @@
-# CAPM Beta & Fama–French Factor Models (Upload-Ready)
+# CAPM Beta & Fama–French Factor Models 
 
 **Author:** Harsh Byjesh | **Generated:** 2025-10-06
 
