@@ -1,4 +1,4 @@
-# Pairs Trading with Cointegration & Z-Score (Upload-Ready)
+# Pairs Trading with Cointegration & Z-Score 
 
 **Author:** HARSH BYJESH | Generated: 2025-10-06
 
