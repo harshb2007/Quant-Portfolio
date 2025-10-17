@@ -12,7 +12,7 @@ Each project includes **data, code, results, and a research report (PDF)**.
 - Compared **momentum (MA crossover)** vs **mean-reversion (RSI)** strategies.
 - Backtested with **volatility targeting & transaction costs**; evaluated Sharpe and drawdowns.
 - **Folder:** [open](./QUANT%20PORTFOLIO/Project%201%20-Momentum%20vs%20Mean-Reversion)  
-- **Report (PDF):** [open](./QUANT%20PORTFOLIO/Project%201%20-Momentum%20vs%20Mean-Reversion/report.pdf)
+- **Report (PDF):** [open]QUANT PORTFOLIO/PROJECT-2 (Portfolio Optimization with Efficient Frontier & Risk Parity)/report -2.pdf
 
 ---
 
