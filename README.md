@@ -1,89 +1,85 @@
 # 📊 Quant Portfolio
 
-A collection of **ten quantitative finance research projects** demonstrating applied skills in **trading strategies, portfolio optimization, options modeling, risk management, and machine learning for markets**.
+A collection of **ten quantitative finance research projects** showcasing applied skills in **trading strategies, portfolio optimization, options modeling, risk management, and machine learning for markets**.
 
-Each project includes **data, code (Jupyter notebooks), and results**.
-
----
-
-## 🔹 Projects (ordered)
-
-### [PROJECT-01 — Momentum vs Mean-Reversion](./PROJECT-01-Momentum-vs-Mean-Reversion)
-- Compares **momentum (moving-average crossover)** and **mean-reversion (RSI)** strategies on equity data.
-- Uses **volatility targeting** and **transaction costs**; evaluates Sharpe, drawdown, turnover.
-- Includes: strategy logic, backtests, equity curves, summary metrics.
+Each project includes **data, code, and results**.
 
 ---
 
-### [PROJECT-02 — Portfolio Optimization (Efficient Frontier & Risk Parity)](./PROJECT-02-Portfolio-Optimization)
-- Implements **Markowitz MPT**, **tangency portfolio**, **minimum variance**, and **risk parity**.
-- Plots the **efficient frontier**; analyzes allocation stability and sensitivity.
-- Includes: optimizer, constraints, weights, frontier & allocation visuals.
+## 🔹 Projects
+
+### [1) Momentum vs Mean-Reversion](./QUANT%20PORTFOLIO/Project%201%20-Momentum%20vs%20Mean-Reversion)
+- Compared **momentum (MA crossover)** vs **mean-reversion (RSI)** strategies.
+- Backtested with **volatility targeting & transaction costs**; evaluated Sharpe and drawdowns.
 
 ---
 
-### [PROJECT-03 — Pairs Trading (Cointegration & Z-Score)](./PROJECT-03-Pairs-Trading)
-- Finds **cointegrated pairs**, trades the spread using **z-score thresholds** with stop/exit logic.
-- Evaluates hit-rate, average trade P&L, holding period, and slippage impact.
-- Includes: Engle–Granger tests, spread/entry/exit plots, backtest metrics.
+### [2) Portfolio Optimization (Efficient Frontier & Risk Parity)](./QUANT%20PORTFOLIO/PROJECT-2%20(Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity))
+- Constructed efficient frontier via **Markowitz MPT**; compared **tangency, min-var, risk parity**.
+- Visualized allocations and portfolio statistics.
 
 ---
 
-### [PROJECT-04 — Options Volatility & Surfaces](./PROJECT-04-Options-Volatility)
-- Builds **implied volatility smiles/surfaces** from option chains.
-- Compares **Black–Scholes** vs empirical IV, explores **skew** and **term structure**.
-- Includes: smile/surface plots, moneyness/tenor analysis, basic strategies (e.g., covered calls).
+### [3) Pairs Trading (Cointegration & Z-Score)](./QUANT%20PORTFOLIO/PROJECT-3%20(Pairs%20Trading%20Cointegration%20%26%20Z-Score))
+- Identified **cointegrated pairs**; traded spread with **z-score entry/exit** rules.
+- Evaluated trade hit-rate, average returns, and drawdowns.
 
 ---
 
-### [PROJECT-05 — Machine Learning for Markets](./PROJECT-05-ML-for-Markets)
-- Predicts market direction using **Logistic Regression** and **Random Forests**.
-- Feature set: lagged returns, MA/RSI, volatility, and simple macro proxies.
-- Includes: train/test split, cross-validation, confusion matrix, feature importance.
+### [4) Options Volatility & Implied Vol Surfaces](./QUANT%20PORTFOLIO/PROJECT-4-%20Options%20Volatility)
+- Built **volatility smiles and surfaces**.
+- Compared **Black–Scholes vs Implied Volatility**; modeled skew and term structure.
 
 ---
 
-### [PROJECT-06 — Sharpe Ratio Optimization](./PROJECT-06-Sharpe-Ratio-Optimization)
-- Optimizes portfolio weights to **maximize Sharpe** under budget and no-short constraints.
-- Benchmarks against **equal-weight** and **volatility-scaled** allocations.
-- Includes: optimizer, frontier slice, weights and performance comparison.
+### [5) Machine Learning for Markets](./QUANT%20PORTFOLIO/PROJECT-5-%20ML%20for%20Markets)
+- Applied **Random Forest & Logistic Regression** to predict market direction.
+- Feature engineering with lagged returns, moving averages, and volatility.
+- Evaluated models with confusion matrices and accuracy metrics.
 
 ---
 
-### [PROJECT-07 — Monte Carlo Option Pricing](./PROJECT-07-Monte-Carlo-Option-Pricing)
-- Prices **European options** via Monte Carlo under **GBM**, compares to **Black–Scholes**.
-- Demonstrates path simulation, pricing convergence, and variance reduction ideas.
-- Includes: simulated paths, pricing distributions, error vs. paths analysis.
+### [6) Sharpe Ratio Optimization](./QUANT%20PORTFOLIO/PROJECT-6-Sharpe%20Ratio%20Optimization)
+- Optimized portfolio weights to **maximize Sharpe Ratio** under constraints.
+- Benchmarked vs equal-weighted portfolio.
+- Produced optimal weights, efficient frontier slice, and comparative returns.
 
 ---
 
-### [PROJECT-08 — Value at Risk (VaR) & Expected Shortfall](./PROJECT-08-Value-at-Risk)
-- Implements **Historical**, **Parametric (Normal/Student-t)**, and **Monte Carlo VaR**.
-- Extends to **Expected Shortfall (CVaR)** for tail-risk assessment.
-- Includes: loss distributions, VaR/ES comparison, stress-style scenarios.
+### [7) Monte Carlo Option Pricing](./QUANT%20PORTFOLIO/PROJECT-7-Monte%20Carlo%20Option%20Pricing)
+- Priced European options under **GBM Monte Carlo simulation**.
+- Compared with analytical **Black–Scholes pricing**.
+- Showed convergence of pricing with number of paths.
 
 ---
 
-### [PROJECT-09 — CAPM & Factor Models](./PROJECT-09-CAPM-Factor-Models)
-- Estimates **beta, alpha, R²** using CAPM; extends to **Fama-French** factor regressions.
-- Interprets factor exposures and residual risk; compares assets/sectors.
-- Includes: regressions, factor loadings, attribution summaries.
+### [8) Value at Risk (VaR) & Expected Shortfall](./QUANT%20PORTFOLIO/PROJECT-8-Value%20at%20Risk%20%26%20Expected%20Shortfall)
+- Implemented **Historical, Parametric, and Monte Carlo VaR**.
+- Extended to **Expected Shortfall (CVaR)**.
+- Plotted loss distributions and stress test results.
 
 ---
 
-### [PROJECT-10 — Daily Returns & Volatility](./PROJECT-10-Daily-Returns-Volatility)
-- Computes **daily log returns**, **rolling volatility**, and **autocorrelations**.
-- Highlights stylized facts (fat tails, volatility clustering).
-- Includes: return histograms, rolling stats, ACF/PACF, drawdown analysis.
+### [9) CAPM Factor Models](./QUANT%20PORTFOLIO/PROJECT-9-CAPM%20Factor%20Models)
+- Estimated **beta, alpha, and R²** with CAPM regressions.
+- Extended analysis with **Fama-French 3-Factor model**.
+- Evaluated factor exposures and portfolio attribution.
+
+---
+
+### [10) Daily Returns & Volatility Analysis](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility)
+- Computed **daily log returns** and rolling volatility.
+- Examined autocorrelations, fat tails, and volatility clustering.
+- Included return histograms, rolling stats, and drawdown plots.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Python**: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `statsmodels`, `scipy`, `yfinance`
-- **Analysis**: Jupyter Notebooks, CSV datasets, PNG charts
-- **Focus**: Backtesting, risk, optimization, options, ML
+- **Python**: numpy, pandas, matplotlib, statsmodels, scikit-learn, yfinance  
+- **Backtesting & Risk**: Jupyter Notebooks, CSV datasets, PNG results  
+- **Docs**: Markdown READMEs  
 
 ---
 
 ## ✨ Author
-**Harsh Byjesh** — Aspiring Quantitative Trader | Princeton ORFE Applicant
+**Harsh Byjesh** — Aspiring Quantitative Trader | Princeton ORFE applicant
