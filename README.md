@@ -1,138 +1,120 @@
-# 📊 Quant Portfolio – Independent Finance Research
+# 📊 Quant Portfolio
 
-This repository is a collection of **10 independent quantitative finance projects** built by **Harsh Byjesh**, an aspiring **Quantitative Trader** and Princeton ORFE applicant.  
+A collection of **ten quantitative finance research projects** showcasing applied skills in **trading strategies, portfolio optimization, options modeling, risk management, and machine learning for markets**.
 
-It demonstrates applied skills in **statistics, portfolio optimization, options pricing, trading strategies, machine learning, and risk management**.  
-
-Each project includes:  
-- 📄 **Research Report (PDF)**  
-- 📊 **Preview charts (inline below)**  
-- 📂 **Full folder with code + results**  
+Each project includes **data, code, results, and a research report (PDF)**.
 
 ---
 
 ## 🔹 Projects
 
----
-
-### [PROJECT-01: Momentum vs Mean-Reversion](./QUANT%20PORTFOLIO/PROJECT-01-Momentum%20vs%20Mean-Reversion)
-- Compares **momentum (MA crossover)** vs **mean-reversion (RSI)** on equity data.  
-- Uses **volatility targeting** and **transaction costs**; evaluates Sharpe, drawdowns, turnover.  
-
+### [PROJECT-01 Momentum vs Mean-Reversion](./QUANT%20PORTFOLIO/PROJECT-01-Momentum%20vs%20Mean-Reversion)
+- Compared **momentum (MA crossover)** vs **mean-reversion (RSI)** strategies.  
+- Backtested with **volatility targeting & transaction costs**; evaluated Sharpe and drawdowns.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-01-Momentum%20vs%20Mean-Reversion/report.pdf)  
 
-📊 Preview:  
-![Equity Curves](./QUANT%20PORTFOLIO/PROJECT-01-Momentum%20vs%20Mean-Reversion/results/equity_curves.png)  
-![Drawdown](./QUANT%20PORTFOLIO/PROJECT-01-Momentum%20vs%20Mean-Reversion/results/drawdown_momentum.png)
+| Equity Curve | Drawdown |
+|--------------|----------|
+| ![Equity](./QUANT%20PORTFOLIO/PROJECT-01-Momentum%20vs%20Mean-Reversion/results/equity_curves.png) | ![Drawdown](./QUANT%20PORTFOLIO/PROJECT-01-Momentum%20vs%20Mean-Reversion/results/drawdown_momentum.png) |
 
 ---
 
-### [PROJECT-02: Portfolio Optimization (Efficient Frontier & Risk Parity)](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity)
-- Implements **Markowitz MPT, tangency, minimum variance, and risk parity**.  
-- Plots the **efficient frontier** and portfolio allocations.  
+### [PROJECT-02 Portfolio Optimization (Efficient Frontier & Risk Parity)](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity)
+- Constructed efficient frontier via **Markowitz MPT**; compared **tangency, min-var, risk parity**.  
+📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/report%20-2.pdf)  
 
-📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/report-2.pdf)  
-
-📊 Preview:  
-![Efficient Frontier](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/results/efficient_frontier.png)
+| Efficient Frontier | Allocations |
+|--------------------|-------------|
+| ![Eff Frontier](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/results/efficient_frontier.png) | ![Risk Parity](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/results/allocations.png) |
 
 ---
 
-### [PROJECT-03: Pairs Trading (Cointegration & Z-Score)](./QUANT%20PORTFOLIO/PROJECT-03-Pairs%20Trading%20Cointegration%20%26%20Z-Score)
-- Identifies **cointegrated pairs**; trades the spread using **z-score thresholds**.  
-- Evaluates hit-rate, trade P&L, holding period.  
-
+### [PROJECT-03 Pairs Trading (Cointegration & Z-Score)](./QUANT%20PORTFOLIO/PROJECT-03-Pairs%20Trading%20Cointegration%20%26%20Z-Score)
+- Identified **cointegrated pairs**; traded spread with **z-score** entry/exit.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-03-Pairs%20Trading%20Cointegration%20%26%20Z-Score/report-3.pdf)  
 
-📊 Preview:  
-![Equity Curve](./QUANT%20PORTFOLIO/PROJECT-03-Pairs%20Trading%20Cointegration%20%26%20Z-Score/results/equity_curve.png)  
-![Z-Score](./QUANT%20PORTFOLIO/PROJECT-03-Pairs%20Trading%20Cointegration%20%26%20Z-Score/results/zscore.png)
+| Spread | Equity Curve |
+|--------|--------------|
+| ![Spread](./QUANT%20PORTFOLIO/PROJECT-03-Pairs%20Trading%20Cointegration%20%26%20Z-Score/results/zscore.png) | ![Equity](./QUANT%20PORTFOLIO/PROJECT-03-Pairs%20Trading%20Cointegration%20%26%20Z-Score/results/equity_curve.png) |
 
 ---
 
-### [PROJECT-04: Options Volatility & Implied Vol Surfaces](./QUANT%20PORTFOLIO/PROJECT-04-Options%20Volatility)
-- Builds **implied volatility smiles and surfaces**.  
-- Compares **Black–Scholes vs empirical IV**; explores skew & term structure.  
-
+### [PROJECT-04 Options Volatility](./QUANT%20PORTFOLIO/PROJECT-04-Options%20Volatility)
+- Modeled **implied volatility smiles & surfaces**; backtested **covered call strategies**.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-04-Options%20Volatility/report-4.pdf)  
 
-📊 Preview:  
-![IV Smile](./QUANT%20PORTFOLIO/PROJECT-04-Options%20Volatility/results/iv_smile.png)  
-![IV Surface](./QUANT%20PORTFOLIO/PROJECT-04-Options%20Volatility/results/iv_surface.png)
+| Covered Call | IV Surface |
+|--------------|------------|
+| ![CC](./QUANT%20PORTFOLIO/PROJECT-04-Options%20Volatility/results/covered_call.png) | ![IV](./QUANT%20PORTFOLIO/PROJECT-04-Options%20Volatility/results/iv_surface.png) |
 
 ---
 
-### [PROJECT-05: Machine Learning for Markets](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets)
-- Applies **Random Forest & Logistic Regression** for predicting returns.  
-- Uses lagged returns, volatility, moving averages as features.  
+### [PROJECT-05 Machine Learning for Markets](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets)
+- Applied **Random Forest & Logistic Regression** to predict market direction.  
+📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets/REPORT%20-5.pdf)  
 
-📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets/REPORT-5.pdf)  
-
-📊 Preview:  
-![Confusion Matrix](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets/results/confusion_matrix.png)  
-![Feature Importance](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets/results/feature_importance.png)
+| Feature Importance | ROC Curve |
+|--------------------|-----------|
+| ![ML](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets/results/equity_ml.png) | ![ROC](./QUANT%20PORTFOLIO/PROJECT-05-ML%20for%20Markets/results/roc_curve.png) |
 
 ---
 
-### [PROJECT-06: Sharpe Ratio Optimization](./QUANT%20PORTFOLIO/PROJECT-06-Sharpe%20Ratio%20Optimization)
-- Optimizes portfolio weights to **maximize Sharpe Ratio** under constraints.  
-- Benchmarks vs equal-weighted portfolios.  
-
+### [PROJECT-06 Sharpe Ratio Optimization](./QUANT%20PORTFOLIO/PROJECT-06-Sharpe%20Ratio%20Optimization)
+- Optimized weights to **maximize Sharpe** vs EW & vol-weighted portfolios.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-06-Sharpe%20Ratio%20Optimization/report.pdf)  
 
-📊 Preview:  
-![Sharpe Optimization](./QUANT%20PORTFOLIO/PROJECT-06-Sharpe%20Ratio%20Optimization/results/sharpe_optimization.png)
+| Equity Curve | Return vs Volatility |
+|--------------|-----------------------|
+| ![Equity](./QUANT%20PORTFOLIO/PROJECT-06-Sharpe%20Ratio%20Optimization/results/equity_curve.png) | ![RV](./QUANT%20PORTFOLIO/PROJECT-06-Sharpe%20Ratio%20Optimization/results/return_vs_vol.png) |
 
 ---
 
-### [PROJECT-07: Monte Carlo Option Pricing](./QUANT%20PORTFOLIO/PROJECT-07-Monte%20Carlo%20Option%20Pricing)
-- Prices European options under **GBM Monte Carlo** simulations.  
-- Compares results with **Black–Scholes closed form**.  
-
+### [PROJECT-07 Monte Carlo Option Pricing](./QUANT%20PORTFOLIO/PROJECT-07-Monte%20Carlo%20Option%20Pricing)
+- Priced European options with **Monte Carlo simulations**; compared to Black-Scholes.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-07-Monte%20Carlo%20Option%20Pricing/report.pdf)  
 
-📊 Preview:  
-![Monte Carlo Paths](./QUANT%20PORTFOLIO/PROJECT-07-Monte%20Carlo%20Option%20Pricing/results/paths.png)  
-![Convergence](./QUANT%20PORTFOLIO/PROJECT-07-Monte%20Carlo%20Option%20Pricing/results/convergence.png)
+| Convergence | Sample Paths |
+|-------------|--------------|
+| ![MC](./QUANT%20PORTFOLIO/PROJECT-07-Monte%20Carlo%20Option%20Pricing/results/mc_convergence.png) | ![Paths](./QUANT%20PORTFOLIO/PROJECT-07-Monte%20Carlo%20Option%20Pricing/results/sample_paths.png) |
 
 ---
 
-### [PROJECT-08: Value at Risk (VaR) & Expected Shortfall](./QUANT%20PORTFOLIO/PROJECT-08-Value%20at%20Risk%20%26%20Expected%20Shortfall)
-- Calculates **Historical, Parametric, and Monte Carlo VaR**.  
-- Extends to **Conditional VaR (Expected Shortfall)**.  
-
+### [PROJECT-08 Value at Risk (VaR) & Expected Shortfall](./QUANT%20PORTFOLIO/PROJECT-08-Value%20at%20Risk%20%26%20Expected%20Shortfall)
+- Calculated **historical/parametric/MC VaR**; extended to CVaR.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-08-Value%20at%20Risk%20%26%20Expected%20Shortfall/report.pdf)  
 
-📊 Preview:  
-![VaR](./QUANT%20PORTFOLIO/PROJECT-08-Value%20at%20Risk%20%26%20Expected%20Shortfall/results/var_plot.png)  
-![CVaR](./QUANT%20PORTFOLIO/PROJECT-08-Value%20at%20Risk%20%26%20Expected%20Shortfall/results/cvar_tail.png)
+| Historical VaR | Returns Distribution |
+|----------------|-----------------------|
+| ![VaR](./QUANT%20PORTFOLIO/PROJECT-08-Value%20at%20Risk%20%26%20Expected%20Shortfall/results/historical_var.png) | ![Dist](./QUANT%20PORTFOLIO/PROJECT-08-Value%20at%20Risk%20%26%20Expected%20Shortfall/results/returns_distribution.png) |
 
 ---
 
-### [PROJECT-09: CAPM Factor Models](./QUANT%20PORTFOLIO/PROJECT-09-CAPM%20Factor%20Models)
-- Implements **CAPM regression** and extends to **Fama–French 3-Factor Model**.  
-- Evaluates **beta, alpha, R²**, factor loadings.  
-
+### [PROJECT-09 CAPM Factor Models](./QUANT%20PORTFOLIO/PROJECT-09-CAPM%20Factor%20Models)
+- Estimated **CAPM beta/alpha**; extended to **Fama-French 3-factor model**.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-09-CAPM%20Factor%20Models/report.pdf)  
 
-📊 Preview:  
-![CAPM Regression](./QUANT%20PORTFOLIO/PROJECT-09-CAPM%20Factor%20Models/results/capm_regression.png)  
-![Factor Analysis](./QUANT%20PORTFOLIO/PROJECT-09-CAPM%20Factor%20Models/results/ff3_factors.png)
+| CAPM Fit | FF3 Betas |
+|----------|-----------|
+| ![CAPM](./QUANT%20PORTFOLIO/PROJECT-09-CAPM%20Factor%20Models/results/capm_scatter_fit.png) | ![FF3](./QUANT%20PORTFOLIO/PROJECT-09-CAPM%20Factor%20Models/results/ff3_betas.png) |
 
 ---
 
-### [PROJECT-10: Daily Returns & Volatility](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility)
-- Computes **daily log returns, rolling volatility, and drawdowns**.  
-- Summarizes portfolio risk metrics.  
-
+### [PROJECT-10 Daily Returns & Volatility Analysis](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility)
+- Computed **daily log returns**, rolling volatility, and drawdown.  
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility/report.pdf)  
 
-📊 Preview:  
-![Rolling Volatility](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility/results/rolling_volatility.png)  
-![Drawdown](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility/results/drawdown.png)
+| Drawdown Curve | Returns Histogram |
+|----------------|-------------------|
+| ![DD](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility/results/drawdown_curve.png) | ![Hist](./QUANT%20PORTFOLIO/PROJECT-10-Daily%20Returns%20%26%20Volatility/results/returns_histogram.png) |
+
+---
+
+## 🛠️ Tech Stack
+- **Python**: numpy, pandas, matplotlib, statsmodels, scikit-learn, yfinance  
+- **Backtesting & Risk**: Jupyter Notebooks, CSV datasets, PNG results  
+- **Docs**: Markdown READMEs, PDF reports  
 
 ---
 
 ## ✨ Author
-**Harsh Byjesh**  
-Aspiring Quantitative Trader | Princeton ORFE Applicant
+**Harsh Byjesh** — Aspiring Quantitative Trader | Princeton ORFE Applicant
