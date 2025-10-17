@@ -1,4 +1,4 @@
-# Value at Risk (VaR) and Expected Shortfall (Upload-Ready)
+# Value at Risk (VaR) and Expected Shortfall 
 
 **Author:** Harsh Byjesh | **Generated:** 2025-10-06
 
