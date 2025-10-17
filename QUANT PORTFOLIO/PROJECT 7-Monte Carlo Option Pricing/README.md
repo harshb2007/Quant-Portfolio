@@ -1,4 +1,4 @@
-# Monte Carlo Option Pricing (Upload-Ready)
+# Monte Carlo Option Pricing
 
 **Author:** Harsh Byjesh | **Generated:** 2025-10-06
 
