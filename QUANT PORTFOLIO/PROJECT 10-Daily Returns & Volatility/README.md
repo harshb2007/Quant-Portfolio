@@ -1,4 +1,4 @@
-# Daily Returns & Volatility Analysis (Upload-Ready)
+# Daily Returns & Volatility Analysis 
 
 **Author:** Harsh Byjesh | **Generated:** 2025-10-16
 
