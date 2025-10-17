@@ -1,4 +1,4 @@
-# Sharpe Ratio Optimization (Upload-Ready)
+# Sharpe Ratio Optimization 
 
 **Author:** Harsh Byjesh | **Generated:** 2025-10-06
 
