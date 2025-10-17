@@ -19,7 +19,7 @@ Each project includes **data, code, results, and a research report (PDF)**.
 ### 2) Portfolio Optimization (Efficient Frontier & Risk Parity)
 - Constructed efficient frontier via **Markowitz MPT**; compared **tangency, min-var, risk parity**.
 - **Folder:** [open](./QUANT%20PORTFOLIO/PROJECT-2%20(Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity))  
-- **Report (PDF):** [open](./QUANT%20PORTFOLIO/PROJECT-2%20(Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity)/report.pdf)
+- **Report (PDF):** [open]QUANT%20PORTFOLIO/PROJECT-2%20(Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity)/report.pdf)
 
 ---
 
