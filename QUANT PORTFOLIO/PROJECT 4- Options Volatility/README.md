@@ -1,4 +1,4 @@
-# Options Volatility Analysis (Smile, Surface & Covered Call) (Upload-Ready)
+# Options Volatility Analysis (Smile, Surface & Covered Call) 
 
 **Author:** HARSH BYJESH | Generated: 2025-10-06
 
