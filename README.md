@@ -1,8 +1,10 @@
 # 📊 Quant Portfolio
 
-A collection of **ten quantitative finance research projects** showcasing applied skills in **trading strategies, portfolio optimization, options modeling, risk management, and machine learning for markets**.
+This repository contains **10 quantitative finance research projects**, created to reflect my deep interest in **mathematical modeling, statistics, and computational methods** applied to financial markets.  
 
-Each project includes **data, code, results, and a research report (PDF)**.
+I wanted to bridge theory and practice by building end-to-end projects that combine **probabity, optimization, data science, and finance**. Each project demonstrates both the **rigor of quantitative methods** and their **practical impact on trading and risk management**.  
+
+These projects reflect the way I’ve learned by sitting beside my father during his trading sessions, observing how real market decisions are made, and then transforming those insights into systematic, data-driven strategies.  
 
 ---
 
@@ -20,12 +22,15 @@ Each project includes **data, code, results, and a research report (PDF)**.
 ---
 
 ### [PROJECT-02 Portfolio Optimization (Efficient Frontier & Risk Parity)](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity)
-- Constructed efficient frontier via **Markowitz MPT**; compared **tangency, min-var, risk parity**.  
+- Constructed the **Efficient Frontier** using Markowitz Modern Portfolio Theory (MPT).  
+- Compared the performance of **tangency portfolio**, **minimum variance portfolio**, and **risk parity allocations**.  
+- Evaluated portfolios based on **Sharpe ratio, volatility, and maximum drawdown**.  
+- Gained insights into how institutional investors balance **return maximization vs. risk minimization**.  
+
 📄 [Report PDF](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/report%20-2.pdf)  
 
-| Efficient Frontier | Allocations |
-|--------------------|-------------|
-| ![Eff Frontier](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/results/efficient_frontier.png) | ![Risk Parity](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/results/allocations.png) |
+📊 Key Result:  
+![Efficient Frontier](./QUANT%20PORTFOLIO/PROJECT-02-Portfolio%20Optimization%20with%20Efficient%20Frontier%20%26%20Risk%20Parity/results/efficient_frontier.png)
 
 ---
 
