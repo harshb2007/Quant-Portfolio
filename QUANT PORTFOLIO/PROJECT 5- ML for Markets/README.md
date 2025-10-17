@@ -1,4 +1,4 @@
-# Machine Learning for Markets (Upload-Ready)
+# Machine Learning for Markets
 
 **Author:** HARSH BYJESH | Generated: 2025-10-06
 
