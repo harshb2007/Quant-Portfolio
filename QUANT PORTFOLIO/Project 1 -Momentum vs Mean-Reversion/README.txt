@@ -1,4 +1,4 @@
-﻿# PROJECT-01-Momentum vs Mean-Reversion
+﻿PROJECT-01-Momentum-vs-Mean-Reversion
 
 Author: HARSH BYJASH| Generated: 2025-10-01
 
@@ -25,5 +25,6 @@ This folder contains a complete, self-contained project comparing **Momentum** (
 - Buy & Hold metrics: {'CAGR': 0.19057630791120617, 'Vol': 0.1778759407080469, 'Sharpe': 1.0714001407531824, 'MaxDD': -0.21546292232359177}
 
 > Note: Results here are from the included synthetic dataset for reproducibility without internet. When you run with live SPY from yfinance, numbers will differ — that’s normal and expected.
+
 
 
