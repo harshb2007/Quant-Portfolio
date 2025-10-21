@@ -154,7 +154,7 @@ I wanted to bridge theory and practice by building end-to-end projects that comb
 
 ## 👤 About Me  
 **Name:** Harsh Byjash  
-**Education:** Class 12, CBSE – Springdales Dubai 
+**Education:** Class 12, CBSE – Springdales Dubai
 **Interests:** Quantitative Finance, Trading, Data Science, Optimization  
 **Projects:** 10 applied research projects in finance, trading, and risk  
 **Future Goals:** Pursuing advanced studies in mathematics, finance, and computation with a long-term focus on quantitative trading and research.  
