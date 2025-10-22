@@ -7,6 +7,7 @@ Inspired by the ingenuity of Tony Stark, this project transforms the fantasy of 
 Our goal is to create a **supportive, fun, and inclusive technology** that empowers children with autism. By blending **engineering, simulation, and empathy**, the project seeks to give kids not just a helping hand—but a *superhero’s hand*.  
 
 ---
+
 ## 📸 Project Snapshots  
 
 <p align="center">  
@@ -14,6 +15,7 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
   <img src="therapy_usecase.png" alt="Therapy Usecase" width="400"/>  
 </p>  
 
+---
 
 ## ✨ Features  
 
@@ -41,9 +43,6 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
 4. **🌱 Learning & Support**  
    - Repetition builds **motor coordination, focus, and confidence**.  
    - Turns therapy-like practice into a fun “superhero experience.”  
-
----
-
 
 ---
 
