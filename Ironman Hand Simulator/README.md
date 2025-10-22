@@ -10,9 +10,11 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
 
 ## 📸 Project Snapshots  
 
+👉 [Here are the codes for the project – Click here to open](./QUANT%20PORTFOLIO/)  
+
 <p align="center">  
-  <img src="ironman_hand_demo.png" alt="IronMan Hand Demo" width="400"/>  
-  <img src="therapy_usecase.png" alt="Therapy Usecase" width="400"/>  
+  <img src="images/myo.png" alt="Myo Control" width="400"/>  
+  <img src="images/vr.png" alt="VR Usecase" width="400"/>  
 </p>  
 
 ---
@@ -21,9 +23,9 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
 
 - **🦾 Heroic Hand Simulation** – A hand movement simulator inspired by Iron Man, designed to make interaction engaging and motivating for children.  
 - **🎮 Gamified Therapy** – Turns repetitive therapeutic tasks into playful challenges, keeping children focused and excited.  
-- ** Autism-Friendly Design** – Developed with simplicity, sensory considerations, and accessibility in mind.  
-- ** Gesture Recognition** – Uses motion-based interaction to respond to children’s actions, improving motor skills and coordination.  
-- ** Inclusive Impact** – Blends technology, compassion, and creativity to support children with autism worldwide.  
+- **🤝 Autism-Friendly Design** – Developed with simplicity, sensory considerations, and accessibility in mind.  
+- **⚡ Gesture Recognition** – Uses motion-based interaction to respond to children’s actions, improving motor skills and coordination.  
+- **🌍 Inclusive Impact** – Blends technology, compassion, and creativity to support children with autism worldwide.  
 
 ---
 
