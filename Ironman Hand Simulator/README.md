@@ -10,7 +10,7 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
 
 ## 📸 Project Snapshots  
 
-👉 [Here are the codes for the project – Click here to open](./QUANT%20PORTFOLIO/)  
+👉 [Click here to open to view codes](./QUANT%20PORTFOLIO/)  
 
 <p align="center">  
   <img src="images/myo.png" alt="Myo Control" width="400"/>  
