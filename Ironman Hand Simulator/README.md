@@ -1,65 +1,57 @@
-# 🦾 Iron Man Hand Simulator — Hospital Edition
+# 🦾 IronMan Hand Simulator: A Heroic Aid for Children with Autism  
 
-![Iron Man](images/ironman.png)
+**About the Project**  
+Inspired by the ingenuity of Tony Stark, this project transforms the fantasy of an Iron Man suit into a **real-world assistive tool**. The *IronMan Hand Simulator* is designed to support children with autism by combining **playful interaction** with **therapeutic benefits**, making learning and engagement feel heroic.  
 
-A playful, therapeutic **hand-tracking repulsor simulator** inspired by Iron Man.  
-Built to bring joy to **autistic and disabled children** through gesture‑controlled, on‑screen interactions.  
+**Mission Statement**  
+Our goal is to create a **supportive, fun, and inclusive technology** that empowers children with autism. By blending **engineering, simulation, and empathy**, the project seeks to give kids not just a helping hand—but a *superhero’s hand*.  
+
+---
+## 📸 Project Snapshots  
+
+<p align="center">  
+  <img src="ironman_hand_demo.png" alt="IronMan Hand Demo" width="400"/>  
+  <img src="therapy_usecase.png" alt="Therapy Usecase" width="400"/>  
+</p>  
+
+
+## ✨ Features  
+
+- **🦾 Heroic Hand Simulation** – A hand movement simulator inspired by Iron Man, designed to make interaction engaging and motivating for children.  
+- **🎮 Gamified Therapy** – Turns repetitive therapeutic tasks into playful challenges, keeping children focused and excited.  
+- ** Autism-Friendly Design** – Developed with simplicity, sensory considerations, and accessibility in mind.  
+- ** Gesture Recognition** – Uses motion-based interaction to respond to children’s actions, improving motor skills and coordination.  
+- ** Inclusive Impact** – Blends technology, compassion, and creativity to support children with autism worldwide.  
 
 ---
 
-## 🎮 What it does
-- Recognizes hand/arm gestures (via **Myo armband**, optional mouse fallback).
-- Fires a **repulsor beam** that pops floating targets with light + sound feedback.
-- Tracks **score, streaks, and session time** for short, focused play.
-- Runs on a laptop/monitor or a VR headset for immersion.
+## ⚙️ How It Works  
 
-![Myo Armband](images/myo.png) ![VR Setup](images/vr.png)
+1. **🖐 Input: Gesture & Movement**  
+   - The child interacts with the simulator using simple hand gestures or pre-set movement controls.  
 
----
+2. **💻 Processing: Iron Man Simulation Engine**  
+   - Movements are captured and processed through the simulator’s logic (gesture recognition, motor response, or code-based triggers).  
+   - Built-in filters smooth the motion so it feels natural and engaging.  
 
-## 🏥 Field Use
-Deployed during hospital visits: kids used simple **open palm to “charge”** and **flick to fire**.  
-We observed improved **engagement, smiles, and longer attention windows**.  
-Session design: **3–5 minutes**, easy pause/stop, and big UI fonts.
+3. **🎨 Output: Interactive Iron Man Hand**  
+   - The simulator responds visually and/or physically, mimicking Iron Man’s hand functions (movement, lights, or feedback).  
+   - Immediate feedback keeps children engaged and encourages repetition (important for therapy).  
 
----
-
-## 🧩 Tech
-- **Python 3.10+**, **Pygame**, **OpenCV (optional)**  
-- Optional **Myo SDK** for EMG/IMU gestures  
-- Designed so Myo can be swapped for **camera‑based** or **keyboard** control
+4. **🌱 Learning & Support**  
+   - Repetition builds **motor coordination, focus, and confidence**.  
+   - Turns therapy-like practice into a fun “superhero experience.”  
 
 ---
 
-## 🚀 Quick Start
-```bash
-pip install pygame opencv-python
-python repulsor_game.py         # run the playable version
-```
-> If you have a Myo armband, see `myo_integration.py` for hooking gestures into the game.
 
 ---
 
-## 📂 Repo Layout
-- `repulsor_game.py` — full “targets + scoring + sounds” experience
-- `simulator_core.py` — minimal repulsor demo
-- `myo_integration.py` — stub/example for integrating Myo gestures
-- `assets/` — sound + simple sprite
-- `images/` — readme visuals
+## 🚀 Future Improvements  
+
+- **VR/AR Integration** – Immersive Iron Man environment for deeper engagement.  
+- **AI Personalization** – Adaptive difficulty levels for each child’s progress.  
+- **Wearable Prototype** – Lightweight glove or exoskeleton version for real-life practice.  
+- **Community Collaboration** – Open-source contributions from developers, therapists, and educators.  
 
 ---
-
-## 🔊 Accessibility & Safety
-- Nonviolent, non‑competitive framing (“pop the lights!”)  
-- Volume‑limited sounds, adjustable brightness  
-- Big pause button; **Esc** to exit immediately
-
----
-
-## ❤️ Why this matters
-For a child in long hospital stays, **joy is medicine**. This project turns STEM into a moment of **agency and delight**.
-
----
-
-## 📜 License
-MIT — use and adapt freely for education and care settings.
