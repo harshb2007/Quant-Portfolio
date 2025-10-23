@@ -1,16 +1,16 @@
 # 🦾 [IronMan Hand Simulator](./Ironman%20Hand%20Simulator/): A Heroic Aid for Children with Autism  
 
-**About the Project:**  
-The *IronMan Hand Simulator* is designed to support children with autism by combining **playful interaction** with **therapeutic benefits**, making learning and engagement feel heroic.  
+**About the Project**  
+Inspired by the ingenuity of Tony Stark, this project transforms the fantasy of an Iron Man suit into a **real-world assistive tool**. The *IronMan Hand Simulator* is designed to support children with autism by combining **playful interaction** with **therapeutic benefits**, making learning and engagement feel heroic.  
 
-**Mission Statement:**  
+**Mission Statement**  
 Our goal is to create a **supportive, fun, and inclusive technology** that empowers children with autism. By blending **engineering, simulation, and empathy**, the project seeks to give kids not just a helping hand—but a *superhero’s hand*.  
 
 ---
 
 ## 📸 Project Snapshots  
 
-👉 [Click here to view codes](./Ironman%20Hand%20Simulator/)  
+👉 [Click here to view codes](./Ironman%20Hand%20Simulator/codes/)  
 
 <p align="center">  
   <img src="images/myo.png" alt="Myo Control" width="400"/>  
@@ -50,9 +50,4 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
 
 ## 🚀 Future Improvements  
 
-- **VR/AR Integration** – Immersive Iron Man environment for deeper engagement.  
-- **AI Personalization** – Adaptive difficulty levels for each child’s progress.  
-- **Wearable Prototype** – Lightweight glove or exoskeleton version for real-life practice.  
-- **Community Collaboration** – Open-source contributions from developers, therapists, and educators.  
-
----
+- **VR/AR Integration** – Immersi
