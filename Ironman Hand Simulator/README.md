@@ -1,4 +1,4 @@
-# 🦾 [IronMan Hand Simulator](./QUANT%20PORTFOLIO/): A Heroic Aid for Children with Autism  
+# 🦾 [Ironman Hand Simulator](./QUANT%20PORTFOLIO/): A Heroic Aid for Children with Autism  
 
 **About the Project**  
 The *IronMan Hand Simulator* is designed to support children with autism by combining **playful interaction** with **therapeutic benefits**, making learning and engagement feel heroic.  
