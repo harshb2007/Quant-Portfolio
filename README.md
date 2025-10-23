@@ -1,4 +1,4 @@
-# 📊 Quant Portfolio - By Harsh Byjash
+# 📊 Quant Portfolio 
 
 A collection of 10 quantitative finance research projects, created to reflect my deep interest in mathematical modeling, statistics, and computational methods applied to financial markets.
 
