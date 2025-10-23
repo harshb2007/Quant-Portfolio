@@ -17,7 +17,6 @@ This section contains all source files, simulations, and program logic that powe
 
 ## 📸 Project Snapshots  
 
-👉 [Click here to view codes](https://github.com/harshb2007/Quant-Portfolio/tree/main/Ironman%20Hand%20Simulator/codes)  
 
 <p align="center">  
   <img src="images/myo.png" alt="Myo Control" width="400"/>  
