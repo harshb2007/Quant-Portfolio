@@ -1,4 +1,4 @@
-# 🦾 [IronMan Hand Simulator](./Ironman%20Hand%20Simulator/): A Heroic Aid for Children with Autism  
+# 🦾 [IronMan Hand Simulator](./Ironman%20Hand%20Simulator/) : A Heroic Aid for Children with Autism  
 
 **About the Project**  
 Inspired by the ingenuity of Tony Stark, this project transforms the fantasy of an Iron Man suit into a **real-world assistive tool**. The *IronMan Hand Simulator* is designed to support children with autism by combining **playful interaction** with **therapeutic benefits**, making learning and engagement feel heroic.  
