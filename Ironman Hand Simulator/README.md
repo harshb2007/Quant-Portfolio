@@ -6,7 +6,12 @@ The *IronMan Hand Simulator* is designed to support children with autism by comb
 **Mission Statement**  
 Our goal is to create a **supportive, fun, and inclusive technology** that empowers children with autism. By blending **engineering, simulation, and empathy**, the project seeks to give kids not just a helping hand—but a *superhero’s hand*.  
 
-[![View Code](https://img.shields.io/badge/Project-Code-blue?style=for-the-badge&logo=github)](YOUR-LINK-HERE)
+## 🔗 Project Code & Repository  
+
+👉 **[Click here to view the full code and implementation](YOUR-LINK-HERE)**  
+
+This section contains all source files, simulations, and program logic that power the IronMan Hand Simulator. The repository is fully documented for clarity and transparency.  
+
 
 ---
 
