@@ -8,7 +8,7 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
 
 ## 🔗 Project Code & Repository  
 
-👉 **[Click here to view the full code and implementation](YOUR-LINK-HERE)**  
+👉 [Click here to view codes](https://github.com/harshb2007/Quant-Portfolio/tree/main/Ironman%20Hand%20Simulator/codes)  
 
 This section contains all source files, simulations, and program logic that power the IronMan Hand Simulator. The repository is fully documented for clarity and transparency.  
 
