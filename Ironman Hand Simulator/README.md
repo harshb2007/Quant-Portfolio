@@ -1,7 +1,7 @@
-# 🦾 [Ironman Hand Simulator](./QUANT%20PORTFOLIO/): A Heroic Aid for Children with Autism  
+# 🦾 [IronMan Hand Simulator](./Ironman%20Hand%20Simulator/): A Heroic Aid for Children with Autism  
 
 **About the Project**  
-The *IronMan Hand Simulator* is designed to support children with autism by combining **playful interaction** with **therapeutic benefits**, making learning and engagement feel heroic.  
+Inspired by the ingenuity of Tony Stark, this project transforms the fantasy of an Iron Man suit into a **real-world assistive tool**. The *IronMan Hand Simulator* is designed to support children with autism by combining **playful interaction** with **therapeutic benefits**, making learning and engagement feel heroic.  
 
 **Mission Statement**  
 Our goal is to create a **supportive, fun, and inclusive technology** that empowers children with autism. By blending **engineering, simulation, and empathy**, the project seeks to give kids not just a helping hand—but a *superhero’s hand*.  
@@ -10,7 +10,7 @@ Our goal is to create a **supportive, fun, and inclusive technology** that empow
 
 ## 📸 Project Snapshots  
 
-👉 [Click here to view codes](./QUANT%20PORTFOLIO/)  
+👉 [Click here to view codes](./Ironman%20Hand%20Simulator/)  
 
 <p align="center">  
   <img src="images/myo.png" alt="Myo Control" width="400"/>  
