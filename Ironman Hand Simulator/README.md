@@ -15,7 +15,7 @@ This section contains all source files, simulations, and program logic that powe
 
 ---
 
-## 📸 Project Snapshots  - bY HARSH BYJASH
+## 📸 Project Snapshots  - BY HARSH BYJASH
 
 
 <p align="center">  
